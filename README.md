@@ -1,2 +1,4 @@
 # GBA-Gameshark-REF1512B
 An optimized PCB and flash dump of the REF1512B GBA Gameshark / Action Replay V3
+
+![image](https://github.com/Modman/GBA-Gameshark-REF1512B/blob/main/REF1512B.png)
